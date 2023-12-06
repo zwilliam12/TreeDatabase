@@ -232,7 +232,7 @@
   {
     "id": 9,
     "parentId": 4,
-    "name": "Pro",
+    "name": "Connector",
     "thesis": false,
     "pro": true,
     "confirmed": true,
@@ -319,7 +319,7 @@
   {
     "id": 12,
     "parentId": 7,
-    "name": "Con",
+    "name": "Connector",
     "thesis": false,
     "pro": false,
     "confirmed": false,
