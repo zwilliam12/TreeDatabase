@@ -6,7 +6,7 @@
     "thesis": true,
     "pro": null,
     "confirmed": null,
-    "position": "For any nonbeliever N, God will prevent N from going to hell forever.",
+    "text": "For any nonbeliever N, God will prevent N from going to hell forever.",
     "user": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
@@ -17,7 +17,7 @@
     "thesis": false,
     "pro": true,
     "confirmed": true,
-    "position": "If my sibling(s) is/are true, then my parent must be true.",
+    "text": "If my sibling(s) is/are true, then my parent must be true.",
     "user": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
@@ -28,7 +28,7 @@
     "thesis": false,
     "pro": true,
     "confirmed": true,
-    "position": "If you want the best for someone, then you would not allow them to experience the worst thing that could possibly happen to them, unless either a) it was necessary to prevent some greater evil, b) it was necessary to bring about some greater good or satisfy deontological constraints, or c) you couldn't stop it from happening.",
+    "text": "If you want the best for someone, then you would not allow them to experience the worst thing that could possibly happen to them, unless either a) it was necessary to prevent some greater evil, b) it was necessary to bring about some greater good or satisfy deontological constraints, or c) you couldn't stop it from happening.",
     "user": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
@@ -39,7 +39,7 @@
     "thesis": false,
     "pro": true,
     "confirmed": true,
-    "position": "God wants the best for N.",
+    "text": "God wants the best for N.",
     "user": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
@@ -50,7 +50,7 @@
     "thesis": false,
     "pro": true,
     "confirmed": true,
-    "position": "Going to hell forever is the worst thing that could possibly happen to N.",
+    "text": "Going to hell forever is the worst thing that could possibly happen to N.",
     "user": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
@@ -61,7 +61,7 @@
     "thesis": false,
     "pro": true,
     "confirmed": true,
-    "position": "N going to hell forever is not necessary to prevent any greater evil.",
+    "text": "N going to hell forever is not necessary to prevent any greater evil.",
     "user": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
@@ -72,7 +72,7 @@
     "thesis": false,
     "pro": true,
     "confirmed": false,
-    "position": "N going to hell forever is not necessary to bring about any greater good or satisfy any deontological constraints.",
+    "text": "N going to hell forever is not necessary to bring about any greater good or satisfy any deontological constraints.",
     "user": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
@@ -83,7 +83,7 @@
     "thesis": false,
     "pro": true,
     "confirmed": true,
-    "position": "God can stop N from doing to hell forever.",
+    "text": "God can stop N from doing to hell forever.",
     "user": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
@@ -94,7 +94,7 @@
     "thesis": false,
     "pro": true,
     "confirmed": true,
-    "position": "If my sibling(s) is/are true, then my parent must be true.",
+    "text": "If my sibling(s) is/are true, then my parent must be true.",
     "user": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
@@ -105,7 +105,7 @@
     "thesis": false,
     "pro": true,
     "confirmed": true,
-    "position": "If someone loves someone else, then they want the best for that person.",
+    "text": "If someone loves someone else, then they want the best for that person.",
     "user": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
@@ -116,7 +116,7 @@
     "thesis": false,
     "pro": true,
     "confirmed": true,
-    "position": "God loves N.",
+    "text": "God loves N.",
     "user": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
@@ -127,7 +127,7 @@
     "thesis": false,
     "pro": false,
     "confirmed": false,
-    "position": "If my sibling(s) is/are true, then my parent must be false.",
+    "text": "If my sibling(s) is/are true, then my parent must be false.",
     "user": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
   },
@@ -138,7 +138,7 @@
     "thesis": false,
     "pro": false,
     "confirmed": false,
-    "position": "It's necessary for some people to go to hell forever in order to have free will.",
+    "text": "It's necessary for some people to go to hell forever in order to have free will.",
     "user": "testUser2",
     "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
   },
@@ -149,7 +149,7 @@
     "thesis": false,
     "pro": false,
     "confirmed": false,
-    "position": "Having a world where each person possesses free will is a greater good.",
+    "text": "Having a world where each person possesses free will is a greater good.",
     "user": "testUser2",
     "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
   }
