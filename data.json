@@ -33,6 +33,17 @@
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
   {
+    "id": 15,
+    "parentId": 3,
+    "name": "Pro",
+    "thesis": false,
+    "pro": true,
+    "confirmed": true,
+    "text": "If you want the best for someone, then you would not allow them to experience the worst thing that could possibly happen to them, unless either a) it was necessary to prevent some greater evil, b) it was necessary to bring about some greater good or satisfy deontological constraints, or c) you couldn't stop it from happening.",
+    "user": "testUser1",
+    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+  },
+  {
     "id": 4,
     "parentId": 1,
     "name": "Pro",
