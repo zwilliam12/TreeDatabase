@@ -60,7 +60,7 @@
     "type": "ASSERTION",
     "thesis": false,
     "pro": true,
-    "confirmed": false,
+    "confirmed": true,
     "text": "Going to hell forever is the worst thing that could possibly happen to N.",
     "author": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
@@ -71,13 +71,24 @@
     "type": "ASSERTION",
     "thesis": false,
     "pro": true,
+    "confirmed": false,
+    "text": "Going to hell forever is the worst thing that could possibly happen to N.",
+    "author": "testUser1",
+    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+  },
+  {
+    "id": 8,
+    "parentId": 1,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": true,
     "confirmed": true,
     "text": "N going to hell forever is not necessary to prevent any greater evil.",
     "author": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
   {
-    "id": 8,
+    "id": 9,
     "parentId": 1,
     "type": "ASSERTION",
     "thesis": false,
@@ -88,7 +99,7 @@
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
   {
-    "id": 9,
+    "id": 10,
     "parentId": 1,
     "type": "ASSERTION",
     "thesis": false,
@@ -99,7 +110,7 @@
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
   {
-    "id": 10,
+    "id": 11,
     "parentId": 1,
     "type": "CONNECTOR",
     "thesis": false,
@@ -110,7 +121,7 @@
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
   {
-    "id": 11,
+    "id": 12,
     "parentId": 1,
     "type": "ASSERTION",
     "thesis": false,
@@ -121,24 +132,13 @@
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
   {
-    "id": 12,
+    "id": 13,
     "parentId": 4,
     "type": "CONNECTOR",
     "thesis": false,
     "pro": true,
     "confirmed": true,
     "text": "If my sibling(s) is/are true, then my parent must be true.",
-    "author": "testUser1",
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
-  },
-  {
-    "id": 13,
-    "parentId": 4,
-    "type": "ASSERTION",
-    "thesis": false,
-    "pro": true,
-    "confirmed": true,
-    "text": "If someone loves someone else, then they want the best for that person.",
     "author": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
@@ -149,12 +149,23 @@
     "thesis": false,
     "pro": true,
     "confirmed": true,
-    "text": "God loves N.",
+    "text": "If someone loves someone else, then they want the best for that person.",
     "author": "testUser1",
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
   {
     "id": 15,
+    "parentId": 4,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": true,
+    "confirmed": true,
+    "text": "God loves N.",
+    "author": "testUser1",
+    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+  },
+  {
+    "id": 16,
     "parentId": 7,
     "type": "CONNECTOR",
     "thesis": false,
@@ -165,7 +176,7 @@
     "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
   },
   {
-    "id": 16,
+    "id": 17,
     "parentId": 7,
     "type": "ASSERTION",
     "thesis": false,
@@ -176,7 +187,7 @@
     "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
   },
   {
-    "id": 17,
+    "id": 18,
     "parentId": 7,
     "type": "ASSERTION",
     "thesis": false,
@@ -187,7 +198,7 @@
     "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
   },
   {
-    "id": 18,
+    "id": 19,
     "parentId": 7,
     "type": "CONNECTOR",
     "thesis": false,
@@ -198,7 +209,7 @@
     "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
   },
   {
-    "id": 19,
+    "id": 20,
     "parentId": 7,
     "type": "ASSERTION",
     "thesis": false,
