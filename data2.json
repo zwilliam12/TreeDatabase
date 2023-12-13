@@ -166,7 +166,7 @@
   },
   {
     "id": 16,
-    "parentId": 7,
+    "parentId": 8,
     "type": "CONNECTOR",
     "thesis": false,
     "pro": false,
@@ -177,7 +177,7 @@
   },
   {
     "id": 17,
-    "parentId": 7,
+    "parentId": 8,
     "type": "ASSERTION",
     "thesis": false,
     "pro": false,
@@ -188,7 +188,7 @@
   },
   {
     "id": 18,
-    "parentId": 7,
+    "parentId": 8,
     "type": "ASSERTION",
     "thesis": false,
     "pro": false,
@@ -199,7 +199,7 @@
   },
   {
     "id": 19,
-    "parentId": 7,
+    "parentId": 8,
     "type": "CONNECTOR",
     "thesis": false,
     "pro": true,
@@ -210,7 +210,7 @@
   },
   {
     "id": 20,
-    "parentId": 7,
+    "parentId": 8,
     "type": "ASSERTION",
     "thesis": false,
     "pro": false,
@@ -219,4 +219,4 @@
     "author": "testUser2",
     "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
   }
-  ]
+]
