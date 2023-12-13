@@ -2,7 +2,7 @@
   {
     "id": 1,
     "parentId": null,
-    "name": "Thesis",
+    "type": "THESIS",
     "thesis": true,
     "pro": null,
     "confirmed": null,
@@ -13,7 +13,7 @@
   {
     "id": 2,
     "parentId": 1,
-    "name": "Connector",
+    "type": "CONNECTOR",
     "thesis": false,
     "pro": true,
     "confirmed": true,
@@ -24,7 +24,7 @@
   {
     "id": 3,
     "parentId": 1,
-    "name": "Pro",
+    "type": "ASSERTION",
     "thesis": false,
     "pro": true,
     "confirmed": true,
@@ -35,7 +35,7 @@
   {
     "id": 4,
     "parentId": 1,
-    "name": "Pro",
+    "type": "ASSERTION",
     "thesis": false,
     "pro": true,
     "confirmed": true,
@@ -46,7 +46,7 @@
   {
     "id": 5,
     "parentId": 1,
-    "name": "Pro",
+    "type": "ASSERTION",
     "thesis": false,
     "pro": true,
     "confirmed": true,
@@ -57,7 +57,7 @@
   {
     "id": 6,
     "parentId": 1,
-    "name": "Pro",
+    "type": "ASSERTION",
     "thesis": false,
     "pro": true,
     "confirmed": true,
@@ -68,7 +68,7 @@
   {
     "id": 7,
     "parentId": 1,
-    "name": "Pro",
+    "type": "ASSERTION",
     "thesis": false,
     "pro": true,
     "confirmed": false,
@@ -79,7 +79,7 @@
   {
     "id": 8,
     "parentId": 1,
-    "name": "Pro",
+    "type": "ASSERTION",
     "thesis": false,
     "pro": true,
     "confirmed": true,
@@ -89,8 +89,30 @@
   },
   {
     "id": 9,
+    "parentId": 1,
+    "type": "CONNECTOR",
+    "thesis": false,
+    "pro": false,
+    "confirmed": true,
+    "text": "God can stop N from doing to hell forever.",
+    "author": "testUser1",
+    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+  },
+  {
+    "id": 10,
+    "parentId": 1,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": false,
+    "confirmed": true,
+    "text": "God can stop N from doing to hell forever.",
+    "author": "testUser1",
+    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+  },
+  {
+    "id": 11,
     "parentId": 4,
-    "name": "Connector",
+    "type": "CONNECTOR",
     "thesis": false,
     "pro": true,
     "confirmed": true,
@@ -99,9 +121,9 @@
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
   {
-    "id": 10,
+    "id": 12,
     "parentId": 4,
-    "name": "Pro",
+    "type": "ASSERTION",
     "thesis": false,
     "pro": true,
     "confirmed": true,
@@ -110,9 +132,9 @@
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
   {
-    "id": 11,
+    "id": 13,
     "parentId": 4,
-    "name": "Pro",
+    "type": "ASSERTION",
     "thesis": false,
     "pro": true,
     "confirmed": true,
@@ -121,9 +143,9 @@
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
   {
-    "id": 12,
+    "id": 14,
     "parentId": 7,
-    "name": "Connector",
+    "type": "CONNECTOR",
     "thesis": false,
     "pro": false,
     "confirmed": false,
@@ -132,9 +154,9 @@
     "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
   },
   {
-    "id": 13,
+    "id": 15,
     "parentId": 7,
-    "name": "Con",
+    "type": "ASSERTION",
     "thesis": false,
     "pro": false,
     "confirmed": false,
@@ -143,9 +165,31 @@
     "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
   },
   {
-    "id": 14,
+    "id": 16,
     "parentId": 7,
-    "name": "Con",
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": false,
+    "confirmed": false,
+    "text": "Having a world where each person possesses free will is a greater good.",
+    "author": "testUser2",
+    "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
+  },
+  {
+    "id": 17,
+    "parentId": 7,
+    "type": "CONNECTOR",
+    "thesis": false,
+    "pro": true,
+    "confirmed": false,
+    "text": "Having a world where each person possesses free will is a greater good.",
+    "author": "testUser2",
+    "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
+  },
+  {
+    "id": 18,
+    "parentId": 7,
+    "type": "ASSERTION",
     "thesis": false,
     "pro": false,
     "confirmed": false,
