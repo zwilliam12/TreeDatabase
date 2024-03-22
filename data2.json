@@ -294,7 +294,7 @@
     "parentId": 8,
     "type": "CONNECTOR",
     "thesis": false,
-    "pro": true,
+    "pro": false,
     "confirmed": false,
     "text": "If my sibling(s) is/are true, then my parent must be true.",
     "author": {
