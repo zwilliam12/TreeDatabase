@@ -7,8 +7,14 @@
     "pro": null,
     "confirmed": null,
     "text": "For any nonbeliever N, God will prevent N from going to hell forever.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 2,
@@ -18,8 +24,14 @@
     "pro": true,
     "confirmed": true,
     "text": "If my sibling(s) is/are true, then my parent must be true.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 3,
@@ -29,8 +41,14 @@
     "pro": true,
     "confirmed": true,
     "text": "If you want the best for someone, then you would not allow them to experience the worst thing that could possibly happen to them, unless either a) it was necessary to prevent some greater evil, b) it was necessary to bring about some greater good or satisfy deontological constraints, or c) you couldn't stop it from happening.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 4,
@@ -40,8 +58,14 @@
     "pro": true,
     "confirmed": true,
     "text": "God wants the best for N.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 5,
@@ -51,8 +75,14 @@
     "pro": true,
     "confirmed": true,
     "text": "Going to hell forever is the worst thing that could possibly happen to N.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 6,
@@ -62,8 +92,14 @@
     "pro": true,
     "confirmed": true,
     "text": "Going to hell forever is the worst thing that could possibly happen to N.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 7,
@@ -73,8 +109,14 @@
     "pro": true,
     "confirmed": false,
     "text": "Going to hell forever is the worst thing that could possibly happen to N.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 8,
@@ -84,8 +126,14 @@
     "pro": true,
     "confirmed": true,
     "text": "N going to hell forever is not necessary to prevent any greater evil.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 9,
@@ -95,8 +143,14 @@
     "pro": true,
     "confirmed": false,
     "text": "N going to hell forever is not necessary to bring about any greater good or satisfy any deontological constraints.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 10,
@@ -106,8 +160,14 @@
     "pro": true,
     "confirmed": true,
     "text": "God can stop N from doing to hell forever.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 11,
@@ -117,8 +177,14 @@
     "pro": false,
     "confirmed": true,
     "text": "If my sibling(s) is/are true, then my parent must be false.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 12,
@@ -128,8 +194,14 @@
     "pro": false,
     "confirmed": true,
     "text": "God can stop N from doing to hell forever.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 13,
@@ -139,8 +211,14 @@
     "pro": true,
     "confirmed": true,
     "text": "If my sibling(s) is/are true, then my parent must be true.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 14,
@@ -150,8 +228,14 @@
     "pro": true,
     "confirmed": true,
     "text": "If someone loves someone else, then they want the best for that person.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 15,
@@ -161,8 +245,14 @@
     "pro": true,
     "confirmed": true,
     "text": "God loves N.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 16,
@@ -172,8 +262,14 @@
     "pro": false,
     "confirmed": false,
     "text": "If my sibling(s) is/are true, then my parent must be false.",
-    "author": testUser1,
-    "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
   },
   {
     "id": 17,
@@ -183,8 +279,14 @@
     "pro": false,
     "confirmed": false,
     "text": "It's necessary for some people to go to hell forever in order to have free will.",
-    "author": testUser2,
-    "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
+    "author": {
+        "id": 2,
+        "username": "testUser2",
+        "screenName": "Test User 2",
+        "email": "testuser2@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
+    },
   },
   {
     "id": 18,
@@ -194,8 +296,14 @@
     "pro": true,
     "confirmed": false,
     "text": "If my sibling(s) is/are true, then my parent must be true.",
-    "author": testUser2,
-    "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
+    "author": {
+        "id": 2,
+        "username": "testUser2",
+        "screenName": "Test User 2",
+        "email": "testuser2@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
+    },
   },
   {
     "id": 19,
@@ -205,7 +313,13 @@
     "pro": false,
     "confirmed": false,
     "text": "Having a world where each person possesses free will is a greater good.",
-    "author": testUser2,
-    "image": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
+    "author": {
+        "id": 2,
+        "username": "testUser2",
+        "screenName": "Test User 2",
+        "email": "testuser2@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
+    },
   }
 ]
