@@ -8,7 +8,14 @@
     "pro": null,
     "confirmed": null,
     "text": "For any nonbeliever N, God will prevent N from going to hell forever.",
-    "author": "testUser1",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    },
     "image": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
   },
   {
