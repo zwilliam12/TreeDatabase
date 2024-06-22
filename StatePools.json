@@ -1,0 +1,326 @@
+
+[
+  {
+    "id": 1,
+    "parentId": null,
+    "type": "THESIS",
+    "thesis": true,
+    "pro": null,
+    "confirmed": null,
+    "text": "For any nonbeliever N, God will prevent N from going to hell forever.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    }
+  },
+  {
+    "id": 2,
+    "parentId": 1,
+    "type": "CONNECTOR",
+    "thesis": false,
+    "pro": true,
+    "confirmed": true,
+    "text": "If my sibling(s) is/are true, then my parent must be true.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    }
+  },
+  {
+    "id": 3,
+    "parentId": 1,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": true,
+    "confirmed": true,
+    "text": "If you want the best for someone, then you would not allow them to experience the worst thing that could possibly happen to them, unless either a) it was necessary to prevent some greater evil, b) it was necessary to bring about some greater good or satisfy deontological constraints, or c) you couldn't stop it from happening.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    }
+  },
+  {
+    "id": 4,
+    "parentId": 1,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": true,
+    "confirmed": true,
+    "text": "God wants the best for N.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    }
+  },
+  {
+    "id": 5,
+    "parentId": 1,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": true,
+    "confirmed": true,
+    "text": "Going to hell forever is the worst thing that could possibly happen to N.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    }
+  },
+  {
+    "id": 6,
+    "parentId": 1,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": true,
+    "confirmed": true,
+    "text": "Going to hell forever is the worst thing that could possibly happen to N.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    }
+  },
+  {
+    "id": 7,
+    "parentId": 1,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": true,
+    "confirmed": false,
+    "text": "Going to hell forever is the worst thing that could possibly happen to N.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    }
+  },
+  {
+    "id": 8,
+    "parentId": 1,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": true,
+    "confirmed": true,
+    "text": "N going to hell forever is not necessary to prevent any greater evil.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    }
+  },
+  {
+    "id": 9,
+    "parentId": 1,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": true,
+    "confirmed": false,
+    "text": "N going to hell forever is not necessary to bring about any greater good or satisfy any deontological constraints.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    }
+  },
+  {
+    "id": 10,
+    "parentId": 1,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": true,
+    "confirmed": true,
+    "text": "God can stop N from doing to hell forever.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    }
+  },
+  {
+    "id": 11,
+    "parentId": 1,
+    "type": "CONNECTOR",
+    "thesis": false,
+    "pro": false,
+    "confirmed": true,
+    "text": "If my sibling(s) is/are true, then my parent must be false.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    }
+  },
+  {
+    "id": 12,
+    "parentId": 1,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": false,
+    "confirmed": true,
+    "text": "God can stop N from doing to hell forever.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    }
+  },
+  {
+    "id": 13,
+    "parentId": 4,
+    "type": "CONNECTOR",
+    "thesis": false,
+    "pro": true,
+    "confirmed": true,
+    "text": "If my sibling(s) is/are true, then my parent must be true.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    }
+  },
+  {
+    "id": 14,
+    "parentId": 4,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": true,
+    "confirmed": true,
+    "text": "If someone loves someone else, then they want the best for that person.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    }
+  },
+  {
+    "id": 15,
+    "parentId": 4,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": true,
+    "confirmed": true,
+    "text": "God loves N.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4z1tlf/styles/profileIcon_je6i3c27n1la1.jpg?width=256&height=256&crop=256:256,smart&s=2ae8dc2372e2ad0d556f22ee8da45832a1854cd2"
+    }
+  },
+  {
+    "id": 16,
+    "parentId": 8,
+    "type": "CONNECTOR",
+    "thesis": false,
+    "pro": false,
+    "confirmed": false,
+    "text": "If my sibling(s) is/are true, then my parent must be false.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
+    }
+  },
+  {
+    "id": 17,
+    "parentId": 8,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": false,
+    "confirmed": false,
+    "text": "It's necessary for some people to go to hell forever in order to have free will.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
+    }
+  },
+  {
+    "id": 18,
+    "parentId": 8,
+    "type": "CONNECTOR",
+    "thesis": false,
+    "pro": false,
+    "confirmed": false,
+    "text": "If my sibling(s) is/are true, then my parent must be true.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
+    }
+  },
+  {
+    "id": 19,
+    "parentId": 8,
+    "type": "ASSERTION",
+    "thesis": false,
+    "pro": false,
+    "confirmed": false,
+    "text": "Having a world where each person possesses free will is a greater good.",
+    "author": {
+        "id": 1,
+        "username": "testUser1",
+        "screenName": "Test User 1",
+        "email": "testuser1@example.com",
+        "dob": "2000-01-01",
+        "pictureUrl": "https://styles.redditmedia.com/t5_4ne09q/styles/profileIcon_1bs0vhzhasta1.jpg?width=256&height=256&crop=256:256,smart&s=e7661e15d984f410ac013abcb26b731dbc3db07d"
+    }
+  }
+]
