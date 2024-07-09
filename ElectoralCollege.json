@@ -1,0 +1,692 @@
+[
+  {
+    "year": 2020,
+    "states": 
+      [
+        {
+          "name": "Alabama",
+          "points": 9
+        },
+        {
+          "name": "Alaska",
+          "points": 3
+        },
+        {
+          "name": "Arizona",
+          "points": 11
+        },
+        {
+          "name": "Arkansas",
+          "points": 6
+        },
+        {
+          "name": "California",
+          "points": 55
+        },
+        {
+          "name": "Colorado",
+          "points": 9
+        },
+        {
+          "name": "Connecticut",
+          "points": 7
+        },
+        {
+          "name": "District of Columbia",
+          "points": 3
+        },
+        {
+          "name": "Delaware",
+          "points": 3
+        },
+        {
+          "name": "Florida",
+          "points": 29
+        },
+        {
+          "name": "Georgia",
+          "points": 16
+        },
+        {
+          "name": "Hawaii",
+          "points": 4
+        },
+        {
+          "name": "Idaho",
+          "points": 4
+        },
+        {
+          "name": "Illinois",
+          "points": 20
+        },
+        {
+          "name": "Indiana",
+          "points": 11
+        },
+        {
+          "name": "Iowa",
+          "points": 6
+        },
+        {
+          "name": "Kansas",
+          "points": 6
+        },
+        {
+          "name": "Kentucky",
+          "points": 8
+        },
+        {
+          "name": "Louisiana",
+          "points": 8
+        },
+        {
+          "name": "Maine (Statewide)",
+          "points": 2
+        },
+        {
+          "name": "Maine (1st)",
+          "points": 1
+        },
+        {
+          "name": "Maine (2nd)",
+          "points": 1
+        },
+        {
+          "name": "Maryland",
+          "points": 10
+        },
+        {
+          "name": "Massachusetts",
+          "points": 11
+        },
+        {
+          "name": "Michigan",
+          "points": 16
+        },
+        {
+          "name": "Minnesota",
+          "points": 10
+        },
+        {
+          "name": "Mississippi",
+          "points": 6
+        },
+        {
+          "name": "Missouri",
+          "points": 10
+        },
+        {
+          "name": "Montana",
+          "points": 3
+        },
+        {
+          "name": "Nebraska (Statewide)",
+          "points": 2
+        },
+        {
+          "name": "Nebraska (1st)",
+          "points": 1
+        },
+        {
+          "name": "Nebraska (2nd)",
+          "points": 1
+        },
+        {
+          "name": "Nebraska (3rd)",
+          "points": 1
+        },
+        {
+          "name": "Nevada",
+          "points": 6
+        },
+        {
+          "name": "New Hampshire",
+          "points": 4
+        },
+        {
+          "name": "New Jersey",
+          "points": 14
+        },
+        {
+          "name": "New Mexico",
+          "points": 5
+        },
+        {
+          "name": "New York",
+          "points": 29
+        },
+        {
+          "name": "North Carolina",
+          "points": 15
+        },
+        {
+          "name": "North Dakota",
+          "points": 3
+        },
+        {
+          "name": "Ohio",
+          "points": 18
+        },
+        {
+          "name": "Oklahoma",
+          "points": 7
+        },
+        {
+          "name": "Oregon",
+          "points": 7
+        },
+        {
+          "name": "Pennsylvania",
+          "points": 20
+        },
+        {
+          "name": "Rhode Island",
+          "points": 4
+        },
+        {
+          "name": "South Carolina",
+          "points": 9
+        },
+        {
+          "name": "South Dakota",
+          "points": 3
+        },
+        {
+          "name": "Tennessee",
+          "points": 11
+        },
+        {
+          "name": "Texas",
+          "points": 38
+        },
+        {
+          "name": "Utah",
+          "points": 6
+        },
+        {
+          "name": "Vermont",
+          "points": 3
+        },
+        {
+          "name": "Virginia",
+          "points": 13
+        },
+        {
+          "name": "Washington",
+          "points": 12
+        },
+        {
+          "name": "West Virginia",
+          "points": 5
+        },
+        {
+          "name": "Wisconsin",
+          "points": 10
+        },
+        {
+          "name": "Wyoming",
+          "points": 3
+        }
+      ]
+  },
+  {
+    "year": 2020,
+    "states": 
+      [
+        {
+          "name": "Alabama",
+          "points": 9
+        },
+        {
+          "name": "Alaska",
+          "points": 3
+        },
+        {
+          "name": "Arizona",
+          "points": 11
+        },
+        {
+          "name": "Arkansas",
+          "points": 6
+        },
+        {
+          "name": "California",
+          "points": 55
+        },
+        {
+          "name": "Colorado",
+          "points": 9
+        },
+        {
+          "name": "Connecticut",
+          "points": 7
+        },
+        {
+          "name": "District of Columbia",
+          "points": 3
+        },
+        {
+          "name": "Delaware",
+          "points": 3
+        },
+        {
+          "name": "Florida",
+          "points": 29
+        },
+        {
+          "name": "Georgia",
+          "points": 16
+        },
+        {
+          "name": "Hawaii",
+          "points": 4
+        },
+        {
+          "name": "Idaho",
+          "points": 4
+        },
+        {
+          "name": "Illinois",
+          "points": 20
+        },
+        {
+          "name": "Indiana",
+          "points": 11
+        },
+        {
+          "name": "Iowa",
+          "points": 6
+        },
+        {
+          "name": "Kansas",
+          "points": 6
+        },
+        {
+          "name": "Kentucky",
+          "points": 8
+        },
+        {
+          "name": "Louisiana",
+          "points": 8
+        },
+        {
+          "name": "Maine (Statewide)",
+          "points": 2
+        },
+        {
+          "name": "Maine (1st)",
+          "points": 1
+        },
+        {
+          "name": "Maine (2nd)",
+          "points": 1
+        },
+        {
+          "name": "Maryland",
+          "points": 10
+        },
+        {
+          "name": "Massachusetts",
+          "points": 11
+        },
+        {
+          "name": "Michigan",
+          "points": 16
+        },
+        {
+          "name": "Minnesota",
+          "points": 10
+        },
+        {
+          "name": "Mississippi",
+          "points": 6
+        },
+        {
+          "name": "Missouri",
+          "points": 10
+        },
+        {
+          "name": "Montana",
+          "points": 3
+        },
+        {
+          "name": "Nebraska (Statewide)",
+          "points": 2
+        },
+        {
+          "name": "Nebraska (1st)",
+          "points": 1
+        },
+        {
+          "name": "Nebraska (2nd)",
+          "points": 1
+        },
+        {
+          "name": "Nebraska (3rd)",
+          "points": 1
+        },
+        {
+          "name": "Nevada",
+          "points": 6
+        },
+        {
+          "name": "New Hampshire",
+          "points": 4
+        },
+        {
+          "name": "New Jersey",
+          "points": 14
+        },
+        {
+          "name": "New Mexico",
+          "points": 5
+        },
+        {
+          "name": "New York",
+          "points": 29
+        },
+        {
+          "name": "North Carolina",
+          "points": 15
+        },
+        {
+          "name": "North Dakota",
+          "points": 3
+        },
+        {
+          "name": "Ohio",
+          "points": 18
+        },
+        {
+          "name": "Oklahoma",
+          "points": 7
+        },
+        {
+          "name": "Oregon",
+          "points": 7
+        },
+        {
+          "name": "Pennsylvania",
+          "points": 20
+        },
+        {
+          "name": "Rhode Island",
+          "points": 4
+        },
+        {
+          "name": "South Carolina",
+          "points": 9
+        },
+        {
+          "name": "South Dakota",
+          "points": 3
+        },
+        {
+          "name": "Tennessee",
+          "points": 11
+        },
+        {
+          "name": "Texas",
+          "points": 38
+        },
+        {
+          "name": "Utah",
+          "points": 6
+        },
+        {
+          "name": "Vermont",
+          "points": 3
+        },
+        {
+          "name": "Virginia",
+          "points": 13
+        },
+        {
+          "name": "Washington",
+          "points": 12
+        },
+        {
+          "name": "West Virginia",
+          "points": 5
+        },
+        {
+          "name": "Wisconsin",
+          "points": 10
+        },
+        {
+          "name": "Wyoming",
+          "points": 3
+        }
+      ]
+  },
+  {
+    "year": 2024,
+    "states": 
+      [
+        {
+          "name": "Alabama",
+          "points": 9
+        },
+        {
+          "name": "Alaska",
+          "points": 3
+        },
+        {
+          "name": "Arizona",
+          "points": 11
+        },
+        {
+          "name": "Arkansas",
+          "points": 6
+        },
+        {
+          "name": "California",
+          "points": 54
+        },
+        {
+          "name": "Colorado",
+          "points": 10
+        },
+        {
+          "name": "Connecticut",
+          "points": 7
+        },
+        {
+          "name": "District of Columbia",
+          "points": 3
+        },
+        {
+          "name": "Delaware",
+          "points": 3
+        },
+        {
+          "name": "Florida",
+          "points": 30
+        },
+        {
+          "name": "Georgia",
+          "points": 16
+        },
+        {
+          "name": "Hawaii",
+          "points": 4
+        },
+        {
+          "name": "Idaho",
+          "points": 4
+        },
+        {
+          "name": "Illinois",
+          "points": 19
+        },
+        {
+          "name": "Indiana",
+          "points": 11
+        },
+        {
+          "name": "Iowa",
+          "points": 6
+        },
+        {
+          "name": "Kansas",
+          "points": 6
+        },
+        {
+          "name": "Kentucky",
+          "points": 8
+        },
+        {
+          "name": "Louisiana",
+          "points": 8
+        },
+        {
+          "name": "Maine (Statewide)",
+          "points": 2
+        },
+        {
+          "name": "Maine (1st)",
+          "points": 1
+        },
+        {
+          "name": "Maine (2nd)",
+          "points": 1
+        },
+        {
+          "name": "Maryland",
+          "points": 10
+        },
+        {
+          "name": "Massachusetts",
+          "points": 11
+        },
+        {
+          "name": "Michigan",
+          "points": 15
+        },
+        {
+          "name": "Minnesota",
+          "points": 10
+        },
+        {
+          "name": "Mississippi",
+          "points": 6
+        },
+        {
+          "name": "Missouri",
+          "points": 10
+        },
+        {
+          "name": "Montana",
+          "points": 4
+        },
+        {
+          "name": "Nebraska (Statewide)",
+          "points": 2
+        },
+        {
+          "name": "Nebraska (1st)",
+          "points": 1
+        },
+        {
+          "name": "Nebraska (2nd)",
+          "points": 1
+        },
+        {
+          "name": "Nebraska (3rd)",
+          "points": 1
+        },
+        {
+          "name": "Nevada",
+          "points": 6
+        },
+        {
+          "name": "New Hampshire",
+          "points": 4
+        },
+        {
+          "name": "New Jersey",
+          "points": 14
+        },
+        {
+          "name": "New Mexico",
+          "points": 5
+        },
+        {
+          "name": "New York",
+          "points": 28
+        },
+        {
+          "name": "North Carolina",
+          "points": 16
+        },
+        {
+          "name": "North Dakota",
+          "points": 3
+        },
+        {
+          "name": "Ohio",
+          "points": 17
+        },
+        {
+          "name": "Oklahoma",
+          "points": 7
+        },
+        {
+          "name": "Oregon",
+          "points": 8
+        },
+        {
+          "name": "Pennsylvania",
+          "points": 19
+        },
+        {
+          "name": "Rhode Island",
+          "points": 4
+        },
+        {
+          "name": "South Carolina",
+          "points": 9
+        },
+        {
+          "name": "South Dakota",
+          "points": 3
+        },
+        {
+          "name": "Tennessee",
+          "points": 11
+        },
+        {
+          "name": "Texas",
+          "points": 40
+        },
+        {
+          "name": "Utah",
+          "points": 6
+        },
+        {
+          "name": "Vermont",
+          "points": 3
+        },
+        {
+          "name": "Virginia",
+          "points": 13
+        },
+        {
+          "name": "Washington",
+          "points": 12
+        },
+        {
+          "name": "West Virginia",
+          "points": 4
+        },
+        {
+          "name": "Wisconsin",
+          "points": 10
+        },
+        {
+          "name": "Wyoming",
+          "points": 3
+        }
+      ]
+  }
+]
