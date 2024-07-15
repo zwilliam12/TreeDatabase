@@ -9,23 +9,28 @@
       [
         {
           "name": "Alabama",
-          "points": 9
+          "points": 9,
+          "assignedTo": false
         },
         {
           "name": "Alaska",
-          "points": 3
+          "points": 3,
+          "assignedTo": false
         },
         {
           "name": "Arizona",
-          "points": 11
+          "points": 11,
+          "assignedTo": false
         },
         {
           "name": "Arkansas",
-          "points": 6
+          "points": 6,
+          "assignedTo": false
         },
         {
           "name": "California",
-          "points": 55
+          "points": 55,
+          "assignedTo": true
         },
         {
           "name": "Colorado",
@@ -33,15 +38,18 @@
         },
         {
           "name": "Connecticut",
-          "points": 7
+          "points": 7,
+          "assignedTo": true
         },
         {
           "name": "District of Columbia",
-          "points": 3
+          "points": 3,
+          "assignedTo": true
         },
         {
           "name": "Delaware",
-          "points": 3
+          "points": 3,
+          "assignedTo": true
         },
         {
           "name": "Florida",
@@ -49,23 +57,28 @@
         },
         {
           "name": "Georgia",
-          "points": 16
+          "points": 16,
+          "assignedTo": false
         },
         {
           "name": "Hawaii",
-          "points": 4
+          "points": 4,
+          "assignedTo": true
         },
         {
           "name": "Idaho",
-          "points": 4
+          "points": 4,
+          "assignedTo": false
         },
         {
           "name": "Illinois",
-          "points": 20
+          "points": 20,
+          "assignedTo": true
         },
         {
           "name": "Indiana",
-          "points": 11
+          "points": 11,
+          "assignedTo": false
         },
         {
           "name": "Iowa",
@@ -73,71 +86,88 @@
         },
         {
           "name": "Kansas",
-          "points": 6
+          "points": 6,
+          "assignedTo": false
         },
         {
           "name": "Kentucky",
-          "points": 8
+          "points": 8,
+          "assignedTo": false
         },
         {
           "name": "Louisiana",
-          "points": 8
+          "points": 8,
+          "assignedTo": false
         },
         {
           "name": "Maine (Statewide)",
-          "points": 2
+          "points": 2,
+          "assignedTo": true
         },
         {
           "name": "Maine (1st)",
-          "points": 1
+          "points": 1,
+          "assignedTo": true
         },
         {
           "name": "Maine (2nd)",
-          "points": 1
+          "points": 1,
+          "assignedTo": false
         },
         {
           "name": "Maryland",
-          "points": 10
+          "points": 10,
+          "assignedTo": true
         },
         {
           "name": "Massachusetts",
-          "points": 11
+          "points": 11,
+          "assignedTo": true
         },
         {
           "name": "Michigan",
-          "points": 16
+          "points": 16,
+          "assignedTo": true
         },
         {
           "name": "Minnesota",
-          "points": 10
+          "points": 10,
+          "assignedTo": true
         },
         {
           "name": "Mississippi",
-          "points": 6
+          "points": 6,
+          "assignedTo": false
         },
         {
           "name": "Missouri",
-          "points": 10
+          "points": 10,
+          "assignedTo": false
         },
         {
           "name": "Montana",
-          "points": 3
+          "points": 3,
+          "assignedTo": false
         },
         {
           "name": "Nebraska (Statewide)",
-          "points": 2
+          "points": 2,
+          "assignedTo": false
         },
         {
           "name": "Nebraska (1st)",
-          "points": 1
+          "points": 1,
+          "assignedTo": false
         },
         {
           "name": "Nebraska (2nd)",
-          "points": 1
+          "points": 1,
+          "assignedTo": true
         },
         {
           "name": "Nebraska (3rd)",
-          "points": 1
+          "points": 1,
+          "assignedTo": false
         },
         {
           "name": "Nevada",
@@ -149,15 +179,18 @@
         },
         {
           "name": "New Jersey",
-          "points": 14
+          "points": 14,
+          "assignedTo": false
         },
         {
           "name": "New Mexico",
-          "points": 5
+          "points": 5,
+          "assignedTo": false
         },
         {
           "name": "New York",
-          "points": 29
+          "points": 29,
+          "assignedTo": false
         },
         {
           "name": "North Carolina",
@@ -165,7 +198,8 @@
         },
         {
           "name": "North Dakota",
-          "points": 3
+          "points": 3,
+          "assignedTo": true
         },
         {
           "name": "Ohio",
@@ -173,11 +207,13 @@
         },
         {
           "name": "Oklahoma",
-          "points": 7
+          "points": 7,
+          "assignedTo": false
         },
         {
           "name": "Oregon",
-          "points": 7
+          "points": 7,
+          "assignedTo": true
         },
         {
           "name": "Pennsylvania",
@@ -185,31 +221,38 @@
         },
         {
           "name": "Rhode Island",
-          "points": 4
+          "points": 4,
+          "assignedTo": false
         },
         {
           "name": "South Carolina",
-          "points": 9
+          "points": 9,
+          "assignedTo": true
         },
         {
           "name": "South Dakota",
-          "points": 3
+          "points": 3,
+          "assignedTo": false
         },
         {
           "name": "Tennessee",
-          "points": 11
+          "points": 11,
+          "assignedTo": false
         },
         {
           "name": "Texas",
-          "points": 38
+          "points": 38,
+          "assignedTo": false
         },
         {
           "name": "Utah",
-          "points": 6
+          "points": 6,
+          "assignedTo": false
         },
         {
           "name": "Vermont",
-          "points": 3
+          "points": 3,
+          "assignedTo": true
         },
         {
           "name": "Virginia",
@@ -217,11 +260,13 @@
         },
         {
           "name": "Washington",
-          "points": 12
+          "points": 12,
+          "assignedTo": true
         },
         {
           "name": "West Virginia",
-          "points": 5
+          "points": 5,
+          "assignedTo": false
         },
         {
           "name": "Wisconsin",
@@ -229,7 +274,8 @@
         },
         {
           "name": "Wyoming",
-          "points": 3
+          "points": 3,
+          "assignedTo": false
         }
       ]
   },
