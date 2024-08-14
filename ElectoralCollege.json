@@ -180,17 +180,17 @@
         {
           "name": "New Jersey",
           "points": 14,
-          "assignedTo": false
+          "assignedTo": true
         },
         {
           "name": "New Mexico",
           "points": 5,
-          "assignedTo": false
+          "assignedTo": true
         },
         {
           "name": "New York",
           "points": 29,
-          "assignedTo": false
+          "assignedTo": true
         },
         {
           "name": "North Carolina",
@@ -199,7 +199,7 @@
         {
           "name": "North Dakota",
           "points": 3,
-          "assignedTo": true
+          "assignedTo": false
         },
         {
           "name": "Ohio",
@@ -222,12 +222,12 @@
         {
           "name": "Rhode Island",
           "points": 4,
-          "assignedTo": false
+          "assignedTo": true
         },
         {
           "name": "South Carolina",
           "points": 9,
-          "assignedTo": true
+          "assignedTo": false
         },
         {
           "name": "South Dakota",
