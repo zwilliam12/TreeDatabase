@@ -88,7 +88,7 @@
   {
     "id": 6,
     "parentId": 1,
-    "type": "ASSERTION",
+    "type": "CONNECTOR",
     "thesis": false,
     "pro": true,
     "confirmed": true,
